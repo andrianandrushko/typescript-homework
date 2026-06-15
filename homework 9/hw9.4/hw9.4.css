@@ -1,0 +1,9 @@
+div{
+    font-family: Calibri;
+    display: flex;
+    gap: 30px;
+}
+p{
+    font-size: 20px;
+    margin-top: 33px;
+}
